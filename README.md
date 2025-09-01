@@ -1,27 +1,40 @@
-# Routing
+# Routing & Building Multi-page SPA (Angular 20)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+<p align="center">
+  <a href="https://angular.io">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="150"/>
+  </a>
+</p>
 
-## Development server
+[![Angular Version](https://img.shields.io/badge/Angular-20-red)](https://angular.io)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> **A simple To-Do List using Server-Side-Rendering and Routing**
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ✨ What It Does
+This project demonstrates how to use **Angular SSR services and routing** in a practical to-do list scenario:
 
-## Build
+- ✅ Create tasks  
+- 🔄 Complete tasks 
+- 🔍 Sort using url queries  
+- 🛠️ Showcase **SSR and Routing** using Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🏗️ Tech Stack
+- **Angular 20** – Modern framework for SPAs  
+- **TypeScript** – Strong typing for maintainability  
+- **HTML5 & CSS** – Simple UI, mobile-friendly  
+- **Firebase** – Deployment and BaaS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## 🚀 Getting Started
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Prerequisites
+- **Node.js** (v18 or newer)  
+- **Angular CLI 20**
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
