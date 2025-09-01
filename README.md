@@ -1,4 +1,4 @@
-# Routing & Building Multi-page SPA (Angular 20)
+# SSR, Routing & Building Multi-page SPA (Angular 20)
 
 <p align="center">
   <a href="https://angular.io">
